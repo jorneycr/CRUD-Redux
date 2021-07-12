@@ -9,6 +9,11 @@
       "nombre": "Azucar",
       "precio": 100,
       "id": 6
+    },
+    {
+      "nombre": "Maiz",
+      "precio": 120,
+      "id": 7
     }
   ]
 }

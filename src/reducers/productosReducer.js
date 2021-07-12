@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 import {
     AGREGAR_PRODUCTO,
     AGREGAR_PRODUCTO_EXITO,
